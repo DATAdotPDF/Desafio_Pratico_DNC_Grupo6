@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="BECOMEX BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
+  <img src="Visual/BECOMEX%20BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
 </p>
+
 
 
 
