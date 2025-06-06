@@ -1,0 +1,27 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Grande Região (Código),Grande Região,Ano (Código),Ano,Variável (Código),Variável,Produto das lavouras temporárias e permanentes (Código),Produto das lavouras temporárias e permanentes
+2,Grande Região,1006,Hectares,6228877,1,Norte,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,6211048,1,Norte,2023,2023,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,1,Norte,2023,2023,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,1,Norte,2023,2023,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,59813166,1,Norte,2023,2023,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,12388505,2,Nordeste,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,12014559,2,Nordeste,2023,2023,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,2,Nordeste,2023,2023,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,2,Nordeste,2023,2023,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,94183085,2,Nordeste,2023,2023,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,16612213,3,Sudeste,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,16593675,3,Sudeste,2023,2023,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,3,Sudeste,2023,2023,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,3,Sudeste,2023,2023,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,210101004,3,Sudeste,2023,2023,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,23855833,4,Sul,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,23796313,4,Sul,2023,2023,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,4,Sul,2023,2023,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,4,Sul,2023,2023,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,175528547,4,Sul,2023,2023,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,37197394,5,Centro-Oeste,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,37192820,5,Centro-Oeste,2023,2023,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,5,Centro-Oeste,2023,2023,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,5,Centro-Oeste,2023,2023,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,274881989,5,Centro-Oeste,2023,2023,215,Valor da produção,0,Total

@@ -1,0 +1,7 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil (Código),Brasil,Ano (Código),Ano,Variável (Código),Variável,Produto das lavouras temporárias e permanentes (Código),Produto das lavouras temporárias e permanentes
+1,Brasil,1006,Hectares,96282822,1,Brasil,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+1,Brasil,1006,Hectares,95808415,1,Brasil,2023,2023,216,Área colhida,0,Total
+1,Brasil,1017,Toneladas,..,1,Brasil,2023,2023,214,Quantidade produzida,0,Total
+1,Brasil,33,Quilogramas por Hectare,..,1,Brasil,2023,2023,112,Rendimento médio da produção,0,Total
+1,Brasil,40,Mil Reais,814507798,1,Brasil,2023,2023,215,Valor da produção,0,Total

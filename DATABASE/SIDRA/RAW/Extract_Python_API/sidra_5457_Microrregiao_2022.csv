@@ -1,0 +1,137 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Unidade da Federação (Código),Unidade da Federação,Ano (Código),Ano,Variável (Código),Variável,Produto das lavouras temporárias e permanentes (Código),Produto das lavouras temporárias e permanentes
+3,Unidade da Federação,1006,Hectares,961956,11,Rondônia,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,961705,11,Rondônia,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,11,Rondônia,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,11,Rondônia,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,10419015,11,Rondônia,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,92287,12,Acre,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,89950,12,Acre,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,12,Acre,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,12,Acre,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,675573,12,Acre,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,120030,13,Amazonas,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,118008,13,Amazonas,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,13,Amazonas,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,13,Amazonas,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,1958870,13,Amazonas,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,150608,14,Roraima,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,150608,14,Roraima,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,14,Roraima,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,14,Roraima,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,1703020,14,Roraima,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,2313220,15,Pará,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,2311915,15,Pará,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,15,Pará,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,15,Pará,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,24365137,15,Pará,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,27260,16,Amapá,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,27184,16,Amapá,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,16,Amapá,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,16,Amapá,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,162930,16,Amapá,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1885158,17,Tocantins,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1873313,17,Tocantins,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,17,Tocantins,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,17,Tocantins,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,15159365,17,Tocantins,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1921234,21,Maranhão,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1920950,21,Maranhão,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,21,Maranhão,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,21,Maranhão,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,14840933,21,Maranhão,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1887023,22,Piauí,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1882048,22,Piauí,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,22,Piauí,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,22,Piauí,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,13046811,22,Piauí,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1441140,23,Ceará,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1440333,23,Ceará,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,23,Ceará,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,23,Ceará,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,5181728,23,Ceará,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,318033,24,Rio Grande do Norte,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,303246,24,Rio Grande do Norte,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,24,Rio Grande do Norte,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,24,Rio Grande do Norte,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2861501,24,Rio Grande do Norte,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,361010,25,Paraíba,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,346881,25,Paraíba,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,25,Paraíba,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,25,Paraíba,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2264138,25,Paraíba,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,817089,26,Pernambuco,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,694196,26,Pernambuco,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,26,Pernambuco,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,26,Pernambuco,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,7591335,26,Pernambuco,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,491705,27,Alagoas,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,424033,27,Alagoas,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,27,Alagoas,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,27,Alagoas,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,3133004,27,Alagoas,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,301529,28,Sergipe,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,297674,28,Sergipe,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,28,Sergipe,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,28,Sergipe,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2140566,28,Sergipe,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,4377527,29,Bahia,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,4340110,29,Bahia,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,29,Bahia,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,29,Bahia,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,46094819,29,Bahia,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,6265143,31,Minas Gerais,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,6249522,31,Minas Gerais,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,31,Minas Gerais,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,31,Minas Gerais,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,87254224,31,Minas Gerais,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,599842,32,Espírito Santo,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,599778,32,Espírito Santo,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,32,Espírito Santo,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,32,Espírito Santo,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,17134833,32,Espírito Santo,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,113605,33,Rio de Janeiro,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,113487,33,Rio de Janeiro,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,33,Rio de Janeiro,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,33,Rio de Janeiro,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2106314,33,Rio de Janeiro,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,9074692,35,São Paulo,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,9056594,35,São Paulo,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,35,São Paulo,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,35,São Paulo,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,103215334,35,São Paulo,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,11547310,41,Paraná,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,11489689,41,Paraná,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,41,Paraná,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,41,Paraná,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,83265833,41,Paraná,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1671667,42,Santa Catarina,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1668620,42,Santa Catarina,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,42,Santa Catarina,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,42,Santa Catarina,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,20146004,42,Santa Catarina,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,10567793,43,Rio Grande do Sul,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,10355632,43,Rio Grande do Sul,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,43,Rio Grande do Sul,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,43,Rio Grande do Sul,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,64748290,43,Rio Grande do Sul,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,6974244,50,Mato Grosso do Sul,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,6925653,50,Mato Grosso do Sul,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,50,Mato Grosso do Sul,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,50,Mato Grosso do Sul,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,49992260,50,Mato Grosso do Sul,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,19166183,51,Mato Grosso,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,19158124,51,Mato Grosso,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,51,Mato Grosso,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,51,Mato Grosso,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,174811463,51,Mato Grosso,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,7680156,52,Goiás,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,7638596,52,Goiás,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,52,Goiás,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,52,Goiás,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,77113491,52,Goiás,2022,2022,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,173955,53,Distrito Federal,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,173925,53,Distrito Federal,2022,2022,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,53,Distrito Federal,2022,2022,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,53,Distrito Federal,2022,2022,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,1947866,53,Distrito Federal,2022,2022,215,Valor da produção,0,Total
