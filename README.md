@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="Visual/BECOMEX%20BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
+  <img src="Visual/BECOMEX_BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
 </p>
-
-
 
 
 # 📊 Análise de Dados Agrícolas do Brasil com SIDRA/IBGE
