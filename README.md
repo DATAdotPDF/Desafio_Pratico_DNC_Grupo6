@@ -25,16 +25,28 @@ A coleta é realizada manualmente via API, com foco nas variáveis relacionadas 
 ```
 📂 Estrutura do Projeto
 
+📂 Estrutura do Projeto
+
 Desafio_Pratico_DNC_Grupo6/
 ├── DATABASE/
 │   └── SIDRA/
 │       ├── RAW/
-│       │   └── (2022) SIDRA Top10 - 5457.xlsx
+│       │   ├── (2022) SIDRA Top10 - 5457.xlsx
+│       │   └── (2023) -  SIDRA Top10 - 5457.xlsx
 │       └── TRATADOS/
+│           ├── 2022/
+│           │   └── (2022) Tratamento Específico por Métrica/
+│           └── 2023/
+│               └── (2023) Tratamento Específico por Métrica/
 ├── Metodologia/
+│   ├── 📊 Apresentação do Projeto.pdf
 │   └── Metodos/
 │       ├── 01-Introdução-a-KDD-e-DM.pdf
 │       └── crisp-dm.pdf
+├── Python/
+│   ├── Becomex_DNC_25(Grupo#6).ipynb
+│   ├── Becomex_DNC_SIDRA_Limpo.ipynb
+│   └── Tratamento_de_Dados_Agrícolas_–_SIDRA_5457_(Becomex_+_DNC)_GRUPO_6.ipynb
 ├── Visual/
 │   ├── AUTO.png
 │   ├── BECOMEX BANNER.png
@@ -44,6 +56,7 @@ Desafio_Pratico_DNC_Grupo6/
 │   └── READ.png
 ├── .gitignore
 └── README.md
+
 
 ```
 
