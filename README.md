@@ -23,18 +23,28 @@ A coleta é realizada manualmente via API, com foco nas variáveis relacionadas 
 ## 📂 Estrutura do Projeto
 
 ```
-📦 Desafio_Pratico_DNC_Grupo6
-├── notebooks/                      # Tratamento e visualização dos dados
-│   ├── coleta_e_tratamento.ipynb
-│   └── exploracao_estatistica.ipynb
-├── dados/
-│   ├── RAW/                        # Dados extraídos da SIDRA
-│   └── TREATED/                   # Dados tratados com Pandas
-├── docs/
-│   └── {NOTAS}_IBGE.md            # Notas metodológicas do IBGE
-├── requirements.txt
-├── README.md
-└── LICENÇA
+📂 Estrutura do Projeto
+
+Desafio_Pratico_DNC_Grupo6/
+├── DATABASE/
+│   └── SIDRA/
+│       ├── RAW/
+│       │   └── (2022) SIDRA Top10 - 5457.xlsx
+│       └── TRATADOS/
+├── Metodologia/
+│   └── Metodos/
+│       ├── 01-Introdução-a-KDD-e-DM.pdf
+│       └── crisp-dm.pdf
+├── Visual/
+│   ├── AUTO.png
+│   ├── BECOMEX BANNER.png
+│   ├── CAPA.png
+│   ├── IMG BANNER.png
+│   ├── LINKS.png
+│   └── READ.png
+├── .gitignore
+└── README.md
+
 ```
 
 ---
