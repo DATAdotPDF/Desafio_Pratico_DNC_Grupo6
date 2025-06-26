@@ -1,0 +1,137 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Unidade da Federação (Código),Unidade da Federação,Ano (Código),Ano,Variável (Código),Variável,Produto das lavouras temporárias e permanentes (Código),Produto das lavouras temporárias e permanentes
+3,Unidade da Federação,1006,Hectares,1096993,11,Rondônia,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1095562,11,Rondônia,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,11,Rondônia,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,11,Rondônia,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,11260885,11,Rondônia,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,97469,12,Acre,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,95060,12,Acre,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,12,Acre,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,12,Acre,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,738964,12,Acre,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,132043,13,Amazonas,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,124524,13,Amazonas,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,13,Amazonas,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,13,Amazonas,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2425204,13,Amazonas,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,175947,14,Roraima,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,175947,14,Roraima,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,14,Roraima,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,14,Roraima,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,1637770,14,Roraima,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,2548193,15,Pará,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,2543535,15,Pará,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,15,Pará,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,15,Pará,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,28597467,15,Pará,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,25889,16,Amapá,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,24631,16,Amapá,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,16,Amapá,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,16,Amapá,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,144016,16,Amapá,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,2152343,17,Tocantins,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,2151789,17,Tocantins,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,17,Tocantins,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,17,Tocantins,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,15008866,17,Tocantins,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,2015448,21,Maranhão,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,2015293,21,Maranhão,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,21,Maranhão,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,21,Maranhão,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,11610792,21,Maranhão,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,2001442,22,Piauí,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1973449,22,Piauí,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,22,Piauí,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,22,Piauí,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,12951333,22,Piauí,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1455477,23,Ceará,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1452961,23,Ceará,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,23,Ceará,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,23,Ceará,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,5008274,23,Ceará,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,356763,24,Rio Grande do Norte,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,325105,24,Rio Grande do Norte,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,24,Rio Grande do Norte,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,24,Rio Grande do Norte,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,3501625,24,Rio Grande do Norte,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,368101,25,Paraíba,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,344634,25,Paraíba,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,25,Paraíba,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,25,Paraíba,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2581669,25,Paraíba,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,805851,26,Pernambuco,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,635890,26,Pernambuco,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,26,Pernambuco,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,26,Pernambuco,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,8882423,26,Pernambuco,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,482001,27,Alagoas,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,439948,27,Alagoas,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,27,Alagoas,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,27,Alagoas,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,3932825,27,Alagoas,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,313233,28,Sergipe,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,304586,28,Sergipe,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,28,Sergipe,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,28,Sergipe,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2374877,28,Sergipe,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,4590189,29,Bahia,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,4522693,29,Bahia,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,29,Bahia,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,29,Bahia,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,43339271,29,Bahia,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,6680134,31,Minas Gerais,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,6679784,31,Minas Gerais,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,31,Minas Gerais,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,31,Minas Gerais,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,81000269,31,Minas Gerais,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,609884,32,Espírito Santo,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,609734,32,Espírito Santo,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,32,Espírito Santo,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,32,Espírito Santo,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,14496830,32,Espírito Santo,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,105548,33,Rio de Janeiro,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,105319,33,Rio de Janeiro,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,33,Rio de Janeiro,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,33,Rio de Janeiro,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,2092320,33,Rio de Janeiro,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,9216647,35,São Paulo,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,9198838,35,São Paulo,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,35,São Paulo,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,35,São Paulo,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,112511584,35,São Paulo,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,11473270,41,Paraná,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,11464133,41,Paraná,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,41,Paraná,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,41,Paraná,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,90475150,41,Paraná,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,1677831,42,Santa Catarina,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,1667894,42,Santa Catarina,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,42,Santa Catarina,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,42,Santa Catarina,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,22599344,42,Santa Catarina,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,10704732,43,Rio Grande do Sul,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,10664286,43,Rio Grande do Sul,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,43,Rio Grande do Sul,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,43,Rio Grande do Sul,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,62454054,43,Rio Grande do Sul,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,7276597,50,Mato Grosso do Sul,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,7276371,50,Mato Grosso do Sul,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,50,Mato Grosso do Sul,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,50,Mato Grosso do Sul,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,51546382,50,Mato Grosso do Sul,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,21260642,51,Mato Grosso,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,21256333,51,Mato Grosso,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,51,Mato Grosso,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,51,Mato Grosso,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,153504222,51,Mato Grosso,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,8484190,52,Goiás,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,8484151,52,Goiás,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,52,Goiás,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,52,Goiás,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,68138414,52,Goiás,2023,2023,215,Valor da produção,0,Total
+3,Unidade da Federação,1006,Hectares,175965,53,Distrito Federal,2023,2023,8331,Área plantada ou destinada à colheita,0,Total
+3,Unidade da Federação,1006,Hectares,175965,53,Distrito Federal,2023,2023,216,Área colhida,0,Total
+3,Unidade da Federação,1017,Toneladas,..,53,Distrito Federal,2023,2023,214,Quantidade produzida,0,Total
+3,Unidade da Federação,33,Quilogramas por Hectare,..,53,Distrito Federal,2023,2023,112,Rendimento médio da produção,0,Total
+3,Unidade da Federação,40,Mil Reais,1692978,53,Distrito Federal,2023,2023,215,Valor da produção,0,Total

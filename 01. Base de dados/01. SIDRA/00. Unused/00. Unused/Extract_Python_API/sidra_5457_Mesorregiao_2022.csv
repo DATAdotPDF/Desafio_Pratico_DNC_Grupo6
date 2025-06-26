@@ -1,0 +1,27 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Grande Região (Código),Grande Região,Ano (Código),Ano,Variável (Código),Variável,Produto das lavouras temporárias e permanentes (Código),Produto das lavouras temporárias e permanentes
+2,Grande Região,1006,Hectares,5550519,1,Norte,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,5532683,1,Norte,2022,2022,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,1,Norte,2022,2022,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,1,Norte,2022,2022,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,54443911,1,Norte,2022,2022,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,11916290,2,Nordeste,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,11649471,2,Nordeste,2022,2022,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,2,Nordeste,2022,2022,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,2,Nordeste,2022,2022,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,97154821,2,Nordeste,2022,2022,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,16053282,3,Sudeste,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,16019381,3,Sudeste,2022,2022,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,3,Sudeste,2022,2022,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,3,Sudeste,2022,2022,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,209710703,3,Sudeste,2022,2022,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,23786770,4,Sul,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,23513941,4,Sul,2022,2022,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,4,Sul,2022,2022,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,4,Sul,2022,2022,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,168160132,4,Sul,2022,2022,215,Valor da produção,0,Total
+2,Grande Região,1006,Hectares,33994538,5,Centro-Oeste,2022,2022,8331,Área plantada ou destinada à colheita,0,Total
+2,Grande Região,1006,Hectares,33896298,5,Centro-Oeste,2022,2022,216,Área colhida,0,Total
+2,Grande Região,1017,Toneladas,..,5,Centro-Oeste,2022,2022,214,Quantidade produzida,0,Total
+2,Grande Região,33,Quilogramas por Hectare,..,5,Centro-Oeste,2022,2022,112,Rendimento médio da produção,0,Total
+2,Grande Região,40,Mil Reais,303865077,5,Centro-Oeste,2022,2022,215,Valor da produção,0,Total
