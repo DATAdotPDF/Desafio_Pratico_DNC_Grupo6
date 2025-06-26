@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="00. Documentos/Visual/BECOMEX_BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
+  <img src="https://raw.githubusercontent.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6/main/00.%20Documentos/Visual/BECOMEX_BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
 </p>
+
 
 
 
