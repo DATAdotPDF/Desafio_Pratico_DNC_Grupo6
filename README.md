@@ -8,6 +8,7 @@
 
 
 
+
 # 📊 Análise de Dados Agrícolas do Brasil com SIDRA/IBGE
 
 **Dashboard analítico baseado na Tabela 5457 da SIDRA/IBGE, com modelagem dimensional e tratamento via Power Query**
