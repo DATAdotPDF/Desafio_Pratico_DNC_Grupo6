@@ -1,32 +1,25 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6/main/00.%20Documentos/02.%20Visual/BECOMEX_BANNER.png" alt="Projeto SIDRA/IBGE - Banner Oficial">
+  <img src="https://raw.githubusercontent.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6/main/00.%20Documentos/02.%20Visual/BECOMEX_BANNER.png" alt="SIDRA/IBGE Project - Official Banner">
 </p>
 
+# 📊 Brazilian Agricultural Data Analysis with SIDRA/IBGE
 
-
-
-
-
-
-
-# 📊 Análise de Dados Agrícolas do Brasil com SIDRA/IBGE
-
-**Dashboard analítico baseado na Tabela 5457 da SIDRA/IBGE, com modelagem dimensional e tratamento via Power Query**
+**Analytical dashboard based on SIDRA/IBGE Table 5457, with dimensional modeling and Power Query transformations**
 
 ---
 
-## 📋 Descrição do Projeto
+## 📋 Project Description
 
-Este projeto foi desenvolvido no contexto do curso de Engenharia de Dados da DNC com patrocínio da Becomex, utilizando dados públicos da Tabela 5457 (Produção Agrícola Municipal) do sistema SIDRA/IBGE. O foco está na construção de uma solução analítica confiável, com base em 10 produtos agrícolas de alta relevância econômica para o Brasil.
+This project was developed as part of DNC's Data Engineering course, sponsored by Becomex, using public data from SIDRA/IBGE Table 5457 (Municipal Agricultural Production). The goal is to build a reliable analytical solution based on 10 agricultural products with high economic relevance to Brazil.
 
-Toda a modelagem e transformação de dados foi realizada no Power Query (Power BI), seguindo arquitetura em estrela (Star Schema), garantindo escalabilidade e clareza para análise exploratória.
+All data modeling and transformation was performed in Power Query (Power BI), following a star schema architecture for clear exploratory analysis.
 
 ---
 
-## 🗂️ Estrutura de Pastas
+## 🗂️ Folder Structure
 
-O projeto está organizado no Google Drive do grupo conforme estrutura padronizada:
+The project is organized in the group's Google Drive using a standard structure:
 
 ```
 📦 /content/drive/MyDrive/DNC/Projetos/Becomex
@@ -53,72 +46,72 @@ O projeto está organizado no Google Drive do grupo conforme estrutura padroniza
 
 ---
 
-## 🧭 Metodologia
+## 🧭 Methodology
 
-- Seleção da Tabela 5457 da SIDRA com os dados de 2022 e 2023
-- Definição dos 10 principais produtos agrícolas por valor de exportação
-- Criação de modelo dimensional (Star Schema) com:
+- Selection of SIDRA Table 5457 with data from 2022 and 2023
+- Definition of the 10 leading agricultural products by export value
+- Creation of a dimensional model (star schema) with:
   - fato_agricultura
   - dim_ano
   - dim_produto
   - dim_variavel
   - dim_territorio
   - dim_nivel
-- Tratamento e limpeza dos dados 100% no Power Query
-- Visualização e exploração com Power BI
+- Data treatment and cleaning performed entirely in Power Query
+- Visualization and exploration with Power BI
 
 ---
 
-## 🌾 Produtos Agrícolas Selecionados
+## 🌾 Selected Agricultural Products
 
-1. Soja em grão  
-2. Milho em grão  
-3. Café em grão  
-4. Cana-de-açúcar  
-5. Algodão herbáceo  
-6. Laranja  
-7. Cacau em amêndoa  
-8. Fumo em folha  
-9. Feijão em grão  
-10. Açúcar
-
----
-
-## 📊 Visualizações e KPIs
-
-O dashboard Power BI apresenta:
-
-- KPIs gerais: produção, área, valor da produção
-- Filtros por produto, ano, UF, região e nível geográfico
-- Análises comparativas por região e por cultura
-- Mapa interativo e gráficos temporais
-- Estrutura modular com múltiplas páginas
+1. Soybeans
+2. Corn
+3. Coffee beans
+4. Sugarcane
+5. Upland cotton
+6. Oranges
+7. Cocoa beans
+8. Leaf tobacco
+9. Beans
+10. Sugar
 
 ---
 
-## 🔧 Ferramentas Utilizadas
+## 📊 Visualizations and KPIs
 
-- Power BI + Power Query  
-- Google Drive para versionamento  
-- GitHub para documentação  
-- Python (apenas fase inicial exploratória)  
+The Power BI dashboard includes:
 
----
-
-## 🚀 Expansões Futuras
-
-- Conexão com APIs para automação da base
-- Análises preditivas com machine learning
-- Integração com dados de exportação (MAPA, Receita Federal)
-- Publicação do dashboard em ambientes públicos
+- General KPIs: production, area, and production value
+- Filters by product, year, state, region, and geographic level
+- Comparative analyses by region and crop
+- Interactive map and time-series charts
+- Modular structure with multiple pages
 
 ---
 
-## 📚 Referências
+## 🔧 Tools Used
+
+- Power BI and Power Query
+- Google Drive for version control
+- GitHub for documentation
+- Python for the initial exploratory phase
+
+---
+
+## 🚀 Future Extensions
+
+- Connect to APIs to automate the data source
+- Predictive analysis with machine learning
+- Add export data from MAPA and the Brazilian Federal Revenue Service
+- Publish the dashboard in public environments
+
+---
+
+## 📚 References
 
 - [SIDRA - IBGE](https://sidra.ibge.gov.br/tabela/5457)
-- [Becomex - Inteligência Tributária](https://becomex.com.br)
+- [Becomex - Tax Intelligence](https://becomex.com.br)
 - [FAO Yearbook](https://www.fao.org/statistics/yearbook)
 - [OECD/FAO Outlook 2023–2032](https://www.oecd-ilibrary.org/agriculture-and-food/oecd-fao-agricultural-outlook-2023-2032_088b15b4-en)
-- [GitHub do Projeto](https://github.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6)
-- [Google Drive do Projeto](https://drive.google.com/drive/folders/1w4MwEPiSkDE5ZhkNfDcaV3UusQ0-Jc--?usp=sharing)
+- [Project GitHub](https://github.com/DATAdotPDF/Desafio_Pratico_DNC_Grupo6)
+- [Project Google Drive](https://drive.google.com/drive/folders/1w4MwEPiSkDE5ZhkNfDcaV3UusQ0-Jc--?usp=sharing)
